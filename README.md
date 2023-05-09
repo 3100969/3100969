@@ -1,4 +1,5 @@
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Esraa, Welcome To My Github Profile :)
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->
+  My Name is Esraa, Welcome To My Github Profile :)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
 </p>
@@ -13,12 +14,14 @@
 
 
 
+<h3>🚀 About Me</h3>
+<p> 
+<h4> - 👨‍💻  I'm Esraa Kamal Sallam from Egypt 
+     - 🏢   As a THIET student, I'm constantly learning and exploring new technologies to improve my skills.
+     - 👨‍💻 I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
+</p>
 
-
-<h3>🚀 About Me</h3> 
-<h4> I'm Esraa Kamal Sallam from Egypt. I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
-
-
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
 
 ## 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)]([https://www.facebook.com/esraa.kamal.5602/](https://www.facebook.com/esraa.kamal.5602/))
@@ -39,4 +42,18 @@
 ---
 <br/>
 -->
+
+### 🛠 &nbsp;Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus&logoColor=563D7C)&nbsp;
+
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
 
