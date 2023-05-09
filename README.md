@@ -5,8 +5,8 @@
 </p>
 </h1>
 
-<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Esraa , Welcome To My Github Profile ♥  -->
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
 
 <br/>
 
@@ -15,13 +15,15 @@
 
 
 <h3>🚀 About Me</h3>
-<p> 
-<h4> - 👨‍💻  I'm Esraa Kamal Sallam from Egypt 
-     - 🏢   As a THIET student, I'm constantly learning and exploring new technologies to improve my skills.
-     - 👨‍💻 I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
-</p>
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
+<h4> - 👨‍💻  I'm Esraa Kamal Sallam from Egypt 
+  <br/>
+     - 🏢   As a THIET student, I'm constantly learning and exploring new technologies to improve my skills.
+  <br/>
+     - 👨‍💻 I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
+
+
+
 
 ## 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)]([https://www.facebook.com/esraa.kamal.5602/](https://www.facebook.com/esraa.kamal.5602/))
